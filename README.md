@@ -29,6 +29,10 @@ Tableau Dashboard
 
 https://public.tableau.com/views/CyclisticDashboardvisualizationanalysis/CyclisticBike-shareAnalysisDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
+Cyclistic bike-share report - Google slide
+
+https://docs.google.com/presentation/d/1XMP3kdNsWgHgtBRzOxotfpBdt9VR579Uiv85QeW12P4/edit?usp=sharing
+
 Files Included
 
 - Capstone_Cyclistic_Project.ipynb
