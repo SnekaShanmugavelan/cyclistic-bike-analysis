@@ -40,6 +40,7 @@ https://docs.google.com/spreadsheets/d/1-H1FlIR45RUV0nDxG02_MD-H8rEKUj0Oz0Eo8TMq
 Files Included
 
  Capstone_Cyclistic_Project.ipynb - Jupyter notebook 
+ 
  SQL_Queries.sql
   
 
