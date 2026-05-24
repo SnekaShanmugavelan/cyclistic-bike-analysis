@@ -33,9 +33,13 @@ Cyclistic bike-share report - Google slide
 
 https://docs.google.com/presentation/d/1XMP3kdNsWgHgtBRzOxotfpBdt9VR579Uiv85QeW12P4/edit?usp=sharing
 
+Cyclistic_cleaned - Google spreadsheet
+
+https://docs.google.com/spreadsheets/d/1-H1FlIR45RUV0nDxG02_MD-H8rEKUj0Oz0Eo8TMqZbY/edit?usp=sharing
+
 Files Included
 
-- Capstone_Cyclistic_Project.ipynb
-- SQL_Queries.sql
-- cyclistic_cleaned.zip
+ Capstone_Cyclistic_Project.ipynb - Jupyter notebook 
+ SQL_Queries.sql
+  
 
